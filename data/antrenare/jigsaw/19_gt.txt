@@ -1,0 +1,9 @@
+1x1o2o2o2o3o3o3x3o
+4o1x1x2o2x2o3o3o3o
+4o4x1o1x2o2x2o3o3o
+4o4o4o1o1x5o5o5o5o
+6o4o4x7x1x8o8x5o5o
+6o6o4o7o7x8o8o5o5o
+6o6o9o9x7o7x8o8x5x
+6o6o9o9o9x7o7x8x8o
+6o6o9o9o9o9o7o7x8o
